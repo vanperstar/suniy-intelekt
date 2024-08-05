@@ -1,0 +1,1186 @@
+[
+  {
+    "id": 5,
+    "name": "ECOG-PS",
+    "create_at": "2023-08-22T06:13:40.404Z",
+    "update_at": "2023-08-22T06:13:40.404Z",
+    "TashxisValues": [
+      {
+        "id": 3,
+        "value_name": "0",
+        "value_number": "0",
+        "tashxis_ref_id": 5,
+        "create_at": "2023-08-22T07:50:19.099Z",
+        "update_at": "2023-08-22T07:50:19.099Z"
+      },
+      {
+        "id": 4,
+        "value_name": "1-2",
+        "value_number": "1",
+        "tashxis_ref_id": 5,
+        "create_at": "2023-08-22T07:50:39.554Z",
+        "update_at": "2023-08-22T07:50:39.554Z"
+      },
+      {
+        "id": 5,
+        "value_name": "3",
+        "value_number": "2",
+        "tashxis_ref_id": 5,
+        "create_at": "2023-08-22T08:30:11.111Z",
+        "update_at": "2023-08-22T08:30:11.111Z"
+      },
+      {
+        "id": 6,
+        "value_name": "4",
+        "value_number": "3",
+        "tashxis_ref_id": 5,
+        "create_at": "2023-08-22T08:45:35.723Z",
+        "update_at": "2023-08-22T08:45:35.723Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Патологический  перелом",
+    "create_at": "2023-08-22T08:47:57.170Z",
+    "update_at": "2023-08-22T08:47:57.170Z",
+    "TashxisValues": [
+      {
+        "id": 7,
+        "value_name": "Нет ",
+        "value_number": "0",
+        "tashxis_ref_id": 6,
+        "create_at": "2023-08-22T08:48:26.066Z",
+        "update_at": "2023-08-22T08:48:26.066Z"
+      },
+      {
+        "id": 8,
+        "value_name": "Риск  ",
+        "value_number": "1",
+        "tashxis_ref_id": 6,
+        "create_at": "2023-08-22T08:56:08.314Z",
+        "update_at": "2023-08-22T08:56:08.314Z"
+      },
+      {
+        "id": 22,
+        "value_name": "Есть",
+        "value_number": "2",
+        "tashxis_ref_id": 6,
+        "create_at": "2023-08-23T07:50:23.815Z",
+        "update_at": "2023-08-23T07:50:23.815Z"
+      },
+      {
+        "id": 23,
+        "value_name": "Повторный ",
+        "value_number": "3",
+        "tashxis_ref_id": 6,
+        "create_at": "2023-08-23T07:50:48.155Z",
+        "update_at": "2023-08-23T07:50:48.155Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Возраст",
+    "create_at": "2023-08-21T06:58:15.439Z",
+    "update_at": "2023-08-21T06:58:15.439Z",
+    "TashxisValues": [
+      {
+        "id": 9,
+        "value_name": "40-55 лет",
+        "value_number": "1",
+        "tashxis_ref_id": 2,
+        "create_at": "2023-08-23T07:19:01.550Z",
+        "update_at": "2023-08-23T07:19:01.550Z"
+      },
+      {
+        "id": 10,
+        "value_name": "56-70 лет",
+        "value_number": "2",
+        "tashxis_ref_id": 2,
+        "create_at": "2023-08-23T07:19:26.283Z",
+        "update_at": "2023-08-23T07:19:26.283Z"
+      },
+      {
+        "id": 11,
+        "value_name": ">70 лет, <40 лет",
+        "value_number": "3",
+        "tashxis_ref_id": 2,
+        "create_at": "2023-08-23T07:19:48.954Z",
+        "update_at": "2023-08-23T07:19:48.954Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Метастаз",
+    "create_at": "2023-08-22T05:41:28.793Z",
+    "update_at": "2023-08-22T05:41:28.793Z",
+    "TashxisValues": [
+      {
+        "id": 12,
+        "value_name": "Ремиссия",
+        "value_number": "0",
+        "tashxis_ref_id": 3,
+        "create_at": "2023-08-23T07:21:04.634Z",
+        "update_at": "2023-08-23T07:21:04.634Z"
+      },
+      {
+        "id": 13,
+        "value_name": "Солитарный",
+        "value_number": "1",
+        "tashxis_ref_id": 3,
+        "create_at": "2023-08-23T07:21:30.489Z",
+        "update_at": "2023-08-23T07:21:30.489Z"
+      },
+      {
+        "id": 14,
+        "value_name": "Олигометастаз",
+        "value_number": "2",
+        "tashxis_ref_id": 3,
+        "create_at": "2023-08-23T07:21:45.046Z",
+        "update_at": "2023-08-23T07:21:45.046Z"
+      },
+      {
+        "id": 15,
+        "value_name": "Множественный",
+        "value_number": "3",
+        "tashxis_ref_id": 3,
+        "create_at": "2023-08-23T07:21:56.786Z",
+        "update_at": "2023-08-23T07:21:56.786Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Кость",
+    "create_at": "2023-08-22T05:41:46.049Z",
+    "update_at": "2023-08-22T05:41:46.049Z",
+    "TashxisValues": [
+      {
+        "id": 17,
+        "value_name": "Верхняя конечность",
+        "value_number": "1",
+        "tashxis_ref_id": 4,
+        "create_at": "2023-08-23T07:22:44.778Z",
+        "update_at": "2023-08-23T07:22:44.778Z"
+      },
+      {
+        "id": 18,
+        "value_name": "Нижняя конечность",
+        "value_number": "2",
+        "tashxis_ref_id": 4,
+        "create_at": "2023-08-23T07:23:04.510Z",
+        "update_at": "2023-08-23T07:23:04.510Z"
+      },
+      {
+        "id": 19,
+        "value_name": "Осевой скелет",
+        "value_number": "3",
+        "tashxis_ref_id": 4,
+        "create_at": "2023-08-23T07:23:26.607Z",
+        "update_at": "2023-08-23T07:23:26.607Z"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Боль",
+    "create_at": "2023-08-23T08:50:28.468Z",
+    "update_at": "2023-08-23T08:50:28.468Z",
+    "TashxisValues": [
+      {
+        "id": 24,
+        "value_name": "Нет ",
+        "value_number": "0",
+        "tashxis_ref_id": 7,
+        "create_at": "2023-08-23T08:50:57.005Z",
+        "update_at": "2023-08-23T08:50:57.005Z"
+      },
+      {
+        "id": 25,
+        "value_name": "Умеренный ",
+        "value_number": "1",
+        "tashxis_ref_id": 7,
+        "create_at": "2023-08-25T02:49:30.118Z",
+        "update_at": "2023-08-25T02:49:30.118Z"
+      },
+      {
+        "id": 26,
+        "value_name": "Сильный ",
+        "value_number": "2",
+        "tashxis_ref_id": 7,
+        "create_at": "2023-08-25T02:49:51.676Z",
+        "update_at": "2023-08-25T02:49:51.676Z"
+      },
+      {
+        "id": 27,
+        "value_name": "Очень сильный ",
+        "value_number": "3",
+        "tashxis_ref_id": 7,
+        "create_at": "2023-08-25T02:50:05.788Z",
+        "update_at": "2023-08-25T02:50:05.788Z"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Гиперкальциемия, мг/Дл",
+    "create_at": "2023-08-25T02:51:08.670Z",
+    "update_at": "2023-08-25T02:51:08.670Z",
+    "TashxisValues": [
+      {
+        "id": 28,
+        "value_name": "8,5-10,5",
+        "value_number": "0",
+        "tashxis_ref_id": 8,
+        "create_at": "2023-08-25T02:51:33.052Z",
+        "update_at": "2023-08-25T02:51:33.052Z"
+      },
+      {
+        "id": 29,
+        "value_name": "10,6-14 мг/Дл",
+        "value_number": "1",
+        "tashxis_ref_id": 8,
+        "create_at": "2023-08-25T02:51:56.051Z",
+        "update_at": "2023-08-25T02:51:56.051Z"
+      },
+      {
+        "id": 30,
+        "value_name": ">14 мг/Дл",
+        "value_number": "2",
+        "tashxis_ref_id": 8,
+        "create_at": "2023-08-25T02:52:15.427Z",
+        "update_at": "2023-08-25T02:52:15.427Z"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "NLR",
+    "create_at": "2023-08-25T02:53:21.580Z",
+    "update_at": "2023-08-25T02:53:21.580Z",
+    "TashxisValues": [
+      {
+        "id": 31,
+        "value_name": "0-3",
+        "value_number": "0",
+        "tashxis_ref_id": 9,
+        "create_at": "2023-08-25T02:54:21.486Z",
+        "update_at": "2023-08-25T02:54:21.486Z"
+      },
+      {
+        "id": 32,
+        "value_name": "4-5",
+        "value_number": "1",
+        "tashxis_ref_id": 9,
+        "create_at": "2023-08-25T02:55:12.270Z",
+        "update_at": "2023-08-25T02:55:12.270Z"
+      },
+      {
+        "id": 33,
+        "value_name": ">5",
+        "value_number": "2",
+        "tashxis_ref_id": 9,
+        "create_at": "2023-08-25T02:55:26.877Z",
+        "update_at": "2023-08-25T02:55:26.877Z"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Гемоглобин, г/л",
+    "create_at": "2023-08-25T02:58:00.526Z",
+    "update_at": "2023-08-25T02:58:00.526Z",
+    "TashxisValues": [
+      {
+        "id": 34,
+        "value_name": ">120",
+        "value_number": "0",
+        "tashxis_ref_id": 10,
+        "create_at": "2023-08-25T02:58:30.204Z",
+        "update_at": "2023-08-25T02:58:30.204Z"
+      },
+      {
+        "id": 35,
+        "value_name": "101-120",
+        "value_number": "1",
+        "tashxis_ref_id": 10,
+        "create_at": "2023-08-25T02:58:47.653Z",
+        "update_at": "2023-08-25T02:58:47.653Z"
+      },
+      {
+        "id": 36,
+        "value_name": "80-100",
+        "value_number": "2",
+        "tashxis_ref_id": 10,
+        "create_at": "2023-08-25T02:59:02.837Z",
+        "update_at": "2023-08-25T02:59:02.837Z"
+      },
+      {
+        "id": 37,
+        "value_name": "<80",
+        "value_number": "3",
+        "tashxis_ref_id": 10,
+        "create_at": "2023-08-25T02:59:11.401Z",
+        "update_at": "2023-08-25T02:59:11.401Z"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Тромбоциты (10/л)",
+    "create_at": "2023-08-25T13:16:54.967Z",
+    "update_at": "2023-08-25T13:16:54.967Z",
+    "TashxisValues": [
+      {
+        "id": 38,
+        "value_name": "100-300",
+        "value_number": "0",
+        "tashxis_ref_id": 11,
+        "create_at": "2023-08-25T13:17:48.382Z",
+        "update_at": "2023-08-25T13:17:48.382Z"
+      },
+      {
+        "id": 39,
+        "value_name": "301-400",
+        "value_number": "1",
+        "tashxis_ref_id": 11,
+        "create_at": "2023-08-25T13:18:04.548Z",
+        "update_at": "2023-08-25T13:18:04.548Z"
+      },
+      {
+        "id": 40,
+        "value_name": ">400, <100",
+        "value_number": "2",
+        "tashxis_ref_id": 11,
+        "create_at": "2023-08-25T13:18:41.437Z",
+        "update_at": "2023-08-25T13:18:41.437Z"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Гиперкоагуляция или склонность к ней",
+    "create_at": "2023-08-28T03:10:39.203Z",
+    "update_at": "2023-08-28T03:10:39.203Z",
+    "TashxisValues": [
+      {
+        "id": 44,
+        "value_name": "Нет ",
+        "value_number": "0",
+        "tashxis_ref_id": 15,
+        "create_at": "2023-08-28T03:11:08.355Z",
+        "update_at": "2023-08-28T03:11:08.355Z"
+      },
+      {
+        "id": 45,
+        "value_name": "Да",
+        "value_number": "1",
+        "tashxis_ref_id": 15,
+        "create_at": "2023-08-28T03:11:19.520Z",
+        "update_at": "2023-08-28T03:11:19.520Z"
+      },
+      {
+        "id": 46,
+        "value_name": "Венозный  тромбоз",
+        "value_number": "2",
+        "tashxis_ref_id": 15,
+        "create_at": "2023-08-28T03:11:34.705Z",
+        "update_at": "2023-08-28T03:11:34.705Z"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Гормональная терапия",
+    "create_at": "2023-08-28T03:12:16.620Z",
+    "update_at": "2023-08-28T03:12:16.620Z",
+    "TashxisValues": [
+      {
+        "id": 47,
+        "value_name": "Нет ",
+        "value_number": "0",
+        "tashxis_ref_id": 16,
+        "create_at": "2023-08-28T03:12:30.249Z",
+        "update_at": "2023-08-28T03:12:30.249Z"
+      },
+      {
+        "id": 48,
+        "value_name": "Да ",
+        "value_number": "1",
+        "tashxis_ref_id": 16,
+        "create_at": "2023-08-28T03:12:42.590Z",
+        "update_at": "2023-08-28T03:12:42.590Z"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Висцеральный метастаз",
+    "create_at": "2023-08-28T05:01:23.867Z",
+    "update_at": "2023-08-28T05:01:23.867Z",
+    "TashxisValues": [
+      {
+        "id": 50,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 17,
+        "create_at": "2023-08-28T06:45:50.481Z",
+        "update_at": "2023-08-28T06:45:50.481Z"
+      },
+      {
+        "id": 51,
+        "value_name": "Солитарный",
+        "value_number": "1",
+        "tashxis_ref_id": 17,
+        "create_at": "2023-08-28T07:01:53.455Z",
+        "update_at": "2023-08-28T07:01:53.455Z"
+      },
+      {
+        "id": 52,
+        "value_name": "Олигометастаз",
+        "value_number": "2",
+        "tashxis_ref_id": 17,
+        "create_at": "2023-08-28T07:02:13.722Z",
+        "update_at": "2023-08-28T07:02:13.722Z"
+      },
+      {
+        "id": 53,
+        "value_name": "Множественный",
+        "value_number": "3",
+        "tashxis_ref_id": 17,
+        "create_at": "2023-08-28T07:02:22.186Z",
+        "update_at": "2023-08-28T07:02:22.186Z"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Поражение головного мозга",
+    "create_at": "2023-08-28T07:03:24.956Z",
+    "update_at": "2023-08-28T07:03:24.956Z",
+    "TashxisValues": [
+      {
+        "id": 54,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 18,
+        "create_at": "2023-08-28T07:03:42.915Z",
+        "update_at": "2023-08-28T07:03:42.915Z"
+      },
+      {
+        "id": 56,
+        "value_name": "Солитарный бессимптомный",
+        "value_number": "1",
+        "tashxis_ref_id": 18,
+        "create_at": "2023-08-28T07:05:18.556Z",
+        "update_at": "2023-08-28T07:05:18.556Z"
+      },
+      {
+        "id": 57,
+        "value_name": "Солитарный,  симптомный олигометастаз",
+        "value_number": "2",
+        "tashxis_ref_id": 18,
+        "create_at": "2023-08-28T07:05:40.793Z",
+        "update_at": "2023-08-28T07:05:40.793Z"
+      },
+      {
+        "id": 58,
+        "value_name": "Множественный",
+        "value_number": "3",
+        "tashxis_ref_id": 18,
+        "create_at": "2023-08-28T07:05:49.256Z",
+        "update_at": "2023-08-28T07:05:49.256Z"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Вид поражения",
+    "create_at": "2023-08-28T12:49:47.206Z",
+    "update_at": "2023-08-28T12:49:47.206Z",
+    "TashxisValues": [
+      {
+        "id": 60,
+        "value_name": "Остеобластический",
+        "value_number": "1",
+        "tashxis_ref_id": 19,
+        "create_at": "2023-08-28T12:50:43.520Z",
+        "update_at": "2023-08-28T12:50:43.520Z"
+      },
+      {
+        "id": 61,
+        "value_name": "Смешанный",
+        "value_number": "2",
+        "tashxis_ref_id": 19,
+        "create_at": "2023-08-28T12:50:55.414Z",
+        "update_at": "2023-08-28T12:50:55.414Z"
+      },
+      {
+        "id": 62,
+        "value_name": "Остеолитический ",
+        "value_number": "3",
+        "tashxis_ref_id": 19,
+        "create_at": "2023-08-28T12:51:02.761Z",
+        "update_at": "2023-08-28T12:51:02.761Z"
+      },
+      {
+        "id": 63,
+        "value_name": "Ремиссия",
+        "value_number": "0",
+        "tashxis_ref_id": 19,
+        "create_at": "2023-08-28T12:53:03.040Z",
+        "update_at": "2023-08-28T12:53:03.040Z"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "СОЭ, мм/час",
+    "create_at": "2023-08-28T12:54:42.727Z",
+    "update_at": "2023-08-28T12:54:42.727Z",
+    "TashxisValues": [
+      {
+        "id": 64,
+        "value_name": "<25",
+        "value_number": "0",
+        "tashxis_ref_id": 20,
+        "create_at": "2023-08-28T12:54:56.885Z",
+        "update_at": "2023-08-28T12:54:56.885Z"
+      },
+      {
+        "id": 65,
+        "value_name": "25-50",
+        "value_number": "1",
+        "tashxis_ref_id": 20,
+        "create_at": "2023-08-28T12:55:20.070Z",
+        "update_at": "2023-08-28T12:55:20.070Z"
+      },
+      {
+        "id": 66,
+        "value_name": "51-75",
+        "value_number": "2",
+        "tashxis_ref_id": 20,
+        "create_at": "2023-08-28T12:55:26.158Z",
+        "update_at": "2023-08-28T12:55:26.158Z"
+      },
+      {
+        "id": 67,
+        "value_name": ">75",
+        "value_number": "3",
+        "tashxis_ref_id": 20,
+        "create_at": "2023-08-28T12:55:38.277Z",
+        "update_at": "2023-08-28T12:55:38.277Z"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Костная антирезорбтивная терапия",
+    "create_at": "2023-08-28T12:57:15.638Z",
+    "update_at": "2023-08-28T12:57:15.638Z",
+    "TashxisValues": [
+      {
+        "id": 68,
+        "value_name": "Да",
+        "value_number": "0",
+        "tashxis_ref_id": 21,
+        "create_at": "2023-08-28T12:57:29.916Z",
+        "update_at": "2023-08-28T12:57:29.916Z"
+      },
+      {
+        "id": 69,
+        "value_name": "Нет",
+        "value_number": "1",
+        "tashxis_ref_id": 21,
+        "create_at": "2023-08-28T12:57:37.591Z",
+        "update_at": "2023-08-28T12:57:37.591Z"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "ИМТ, кг/м2",
+    "create_at": "2023-08-28T12:58:02.076Z",
+    "update_at": "2023-08-28T12:58:02.076Z",
+    "TashxisValues": [
+      {
+        "id": 70,
+        "value_name": "18,5-25",
+        "value_number": "0",
+        "tashxis_ref_id": 22,
+        "create_at": "2023-08-28T12:58:11.916Z",
+        "update_at": "2023-08-28T12:58:11.916Z"
+      },
+      {
+        "id": 71,
+        "value_name": "26-35",
+        "value_number": "1",
+        "tashxis_ref_id": 22,
+        "create_at": "2023-08-28T12:58:19.156Z",
+        "update_at": "2023-08-28T12:58:19.156Z"
+      },
+      {
+        "id": 72,
+        "value_name": "36-40",
+        "value_number": "2",
+        "tashxis_ref_id": 22,
+        "create_at": "2023-08-28T12:58:27.997Z",
+        "update_at": "2023-08-28T12:58:27.997Z"
+      },
+      {
+        "id": 73,
+        "value_name": ">40, <16",
+        "value_number": "3",
+        "tashxis_ref_id": 22,
+        "create_at": "2023-08-28T12:58:35.919Z",
+        "update_at": "2023-08-28T12:58:35.919Z"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Предыдущая ХТ",
+    "create_at": "2023-08-28T13:00:09.984Z",
+    "update_at": "2023-08-28T13:00:09.984Z",
+    "TashxisValues": [
+      {
+        "id": 74,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 23,
+        "create_at": "2023-08-28T13:00:19.713Z",
+        "update_at": "2023-08-28T13:00:19.713Z"
+      },
+      {
+        "id": 75,
+        "value_name": "Да",
+        "value_number": "1",
+        "tashxis_ref_id": 23,
+        "create_at": "2023-08-28T13:00:27.662Z",
+        "update_at": "2023-08-28T13:00:27.662Z"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Предыдущая ЛТ",
+    "create_at": "2023-08-28T13:00:36.061Z",
+    "update_at": "2023-08-28T13:00:36.061Z",
+    "TashxisValues": [
+      {
+        "id": 76,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 24,
+        "create_at": "2023-08-28T13:00:42.725Z",
+        "update_at": "2023-08-28T13:00:42.725Z"
+      },
+      {
+        "id": 77,
+        "value_name": "Да",
+        "value_number": "1",
+        "tashxis_ref_id": 24,
+        "create_at": "2023-08-28T13:00:50.319Z",
+        "update_at": "2023-08-28T13:00:50.319Z"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Предыдущая Хирургия",
+    "create_at": "2023-08-28T13:00:58.656Z",
+    "update_at": "2023-08-28T13:00:58.656Z",
+    "TashxisValues": [
+      {
+        "id": 78,
+        "value_name": "Нет ",
+        "value_number": "0",
+        "tashxis_ref_id": 25,
+        "create_at": "2023-08-28T13:01:09.707Z",
+        "update_at": "2023-08-28T13:01:09.707Z"
+      },
+      {
+        "id": 79,
+        "value_name": "Да",
+        "value_number": "1",
+        "tashxis_ref_id": 25,
+        "create_at": "2023-08-28T13:01:17.670Z",
+        "update_at": "2023-08-28T13:01:17.670Z"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Семейный анамнез",
+    "create_at": "2023-08-28T13:01:36.669Z",
+    "update_at": "2023-08-28T13:01:36.669Z",
+    "TashxisValues": [
+      {
+        "id": 80,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 26,
+        "create_at": "2023-08-28T13:01:48.454Z",
+        "update_at": "2023-08-28T13:01:48.454Z"
+      },
+      {
+        "id": 81,
+        "value_name": "Да ",
+        "value_number": "1",
+        "tashxis_ref_id": 26,
+        "create_at": "2023-08-28T13:01:56.749Z",
+        "update_at": "2023-08-28T13:01:56.749Z"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Градации дифференцировки",
+    "create_at": "2023-08-28T13:08:47.277Z",
+    "update_at": "2023-08-28T13:08:47.277Z",
+    "TashxisValues": [
+      {
+        "id": 82,
+        "value_name": "G1",
+        "value_number": "1",
+        "tashxis_ref_id": 27,
+        "create_at": "2023-08-28T13:09:18.996Z",
+        "update_at": "2023-08-28T13:09:18.996Z"
+      },
+      {
+        "id": 83,
+        "value_name": "G2",
+        "value_number": "2",
+        "tashxis_ref_id": 27,
+        "create_at": "2023-08-28T13:09:26.205Z",
+        "update_at": "2023-08-28T13:09:26.205Z"
+      },
+      {
+        "id": 84,
+        "value_name": "G3/4",
+        "value_number": "3",
+        "tashxis_ref_id": 27,
+        "create_at": "2023-08-28T13:09:37.708Z",
+        "update_at": "2023-08-28T13:09:37.708Z"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Уровень поражения",
+    "create_at": "2023-08-28T14:21:55.710Z",
+    "update_at": "2023-08-28T14:21:55.710Z",
+    "TashxisValues": [
+      {
+        "id": 85,
+        "value_name": "<25%",
+        "value_number": "1",
+        "tashxis_ref_id": 28,
+        "create_at": "2023-08-28T14:22:03.793Z",
+        "update_at": "2023-08-28T14:22:03.793Z"
+      },
+      {
+        "id": 86,
+        "value_name": "25-50%",
+        "value_number": "2",
+        "tashxis_ref_id": 28,
+        "create_at": "2023-08-28T14:22:11.225Z",
+        "update_at": "2023-08-28T14:22:11.225Z"
+      },
+      {
+        "id": 87,
+        "value_name": "50-75%,  >75%",
+        "value_number": "3",
+        "tashxis_ref_id": 28,
+        "create_at": "2023-08-28T14:22:20.539Z",
+        "update_at": "2023-08-28T14:22:20.539Z"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Коморбидность по Чарлсону",
+    "create_at": "2023-08-28T14:22:42.832Z",
+    "update_at": "2023-08-28T14:22:42.832Z",
+    "TashxisValues": [
+      {
+        "id": 88,
+        "value_name": "<6",
+        "value_number": "0",
+        "tashxis_ref_id": 29,
+        "create_at": "2023-08-28T14:22:50.800Z",
+        "update_at": "2023-08-28T14:22:50.800Z"
+      },
+      {
+        "id": 89,
+        "value_name": "6-10",
+        "value_number": "1",
+        "tashxis_ref_id": 29,
+        "create_at": "2023-08-28T14:22:56.658Z",
+        "update_at": "2023-08-28T14:22:56.658Z"
+      },
+      {
+        "id": 90,
+        "value_name": "10-20",
+        "value_number": "2",
+        "tashxis_ref_id": 29,
+        "create_at": "2023-08-28T14:23:02.121Z",
+        "update_at": "2023-08-28T14:23:02.121Z"
+      },
+      {
+        "id": 91,
+        "value_name": ">20",
+        "value_number": "3",
+        "tashxis_ref_id": 29,
+        "create_at": "2023-08-28T14:23:11.802Z",
+        "update_at": "2023-08-28T14:23:11.802Z"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Интервал между первичным диагнозом и метастазом",
+    "create_at": "2023-08-28T14:23:33.377Z",
+    "update_at": "2023-08-28T14:23:33.377Z",
+    "TashxisValues": [
+      {
+        "id": 92,
+        "value_name": ">24 мес",
+        "value_number": "1",
+        "tashxis_ref_id": 30,
+        "create_at": "2023-08-28T14:23:52.083Z",
+        "update_at": "2023-08-28T14:23:52.083Z"
+      },
+      {
+        "id": 93,
+        "value_name": "12-24 мес",
+        "value_number": "2",
+        "tashxis_ref_id": 30,
+        "create_at": "2023-08-28T14:24:02.691Z",
+        "update_at": "2023-08-28T14:24:02.691Z"
+      },
+      {
+        "id": 94,
+        "value_name": "<12 мес, синхронный",
+        "value_number": "3",
+        "tashxis_ref_id": 30,
+        "create_at": "2023-08-28T14:24:12.907Z",
+        "update_at": "2023-08-28T14:24:12.907Z"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "ЛДГ, ЕД/л Маркер прогрессирования рака",
+    "create_at": "2023-08-28T14:24:29.905Z",
+    "update_at": "2023-08-28T14:24:29.905Z",
+    "TashxisValues": [
+      {
+        "id": 95,
+        "value_name": "140-280",
+        "value_number": "0",
+        "tashxis_ref_id": 31,
+        "create_at": "2023-08-28T14:24:44.523Z",
+        "update_at": "2023-08-28T14:24:44.523Z"
+      },
+      {
+        "id": 96,
+        "value_name": ">280",
+        "value_number": "1",
+        "tashxis_ref_id": 31,
+        "create_at": "2023-08-28T14:24:52.033Z",
+        "update_at": "2023-08-28T14:24:52.033Z"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Проведена иммунотаргетная терапия",
+    "create_at": "2023-08-28T14:31:28.978Z",
+    "update_at": "2023-08-28T14:31:28.978Z",
+    "TashxisValues": [
+      {
+        "id": 97,
+        "value_name": "Да",
+        "value_number": "0",
+        "tashxis_ref_id": 32,
+        "create_at": "2023-08-28T14:31:40.288Z",
+        "update_at": "2023-08-28T14:31:40.288Z"
+      },
+      {
+        "id": 98,
+        "value_name": "Нет",
+        "value_number": "1",
+        "tashxis_ref_id": 32,
+        "create_at": "2023-08-28T14:31:46.424Z",
+        "update_at": "2023-08-28T14:31:46.424Z"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Вредные привычки ",
+    "create_at": "2023-08-28T14:31:53.391Z",
+    "update_at": "2023-08-28T14:31:53.391Z",
+    "TashxisValues": [
+      {
+        "id": 99,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 33,
+        "create_at": "2023-08-28T14:31:59.696Z",
+        "update_at": "2023-08-28T14:31:59.696Z"
+      },
+      {
+        "id": 100,
+        "value_name": "Да",
+        "value_number": "1",
+        "tashxis_ref_id": 33,
+        "create_at": "2023-08-28T14:32:06.512Z",
+        "update_at": "2023-08-28T14:32:06.512Z"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Стадия первичного рака",
+    "create_at": "2023-08-28T14:33:58.144Z",
+    "update_at": "2023-08-28T14:33:58.144Z",
+    "TashxisValues": [
+      {
+        "id": 101,
+        "value_name": "0",
+        "value_number": "0",
+        "tashxis_ref_id": 34,
+        "create_at": "2023-08-28T14:34:08.383Z",
+        "update_at": "2023-08-28T14:34:08.383Z"
+      },
+      {
+        "id": 102,
+        "value_name": "I, II",
+        "value_number": "1",
+        "tashxis_ref_id": 34,
+        "create_at": "2023-08-28T14:34:16.889Z",
+        "update_at": "2023-08-28T14:34:16.889Z"
+      },
+      {
+        "id": 103,
+        "value_name": "III",
+        "value_number": "2",
+        "tashxis_ref_id": 34,
+        "create_at": "2023-08-28T14:34:25.031Z",
+        "update_at": "2023-08-28T14:34:25.031Z"
+      },
+      {
+        "id": 104,
+        "value_name": "IV",
+        "value_number": "3",
+        "tashxis_ref_id": 34,
+        "create_at": "2023-08-28T14:34:33.958Z",
+        "update_at": "2023-08-28T14:34:33.958Z"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Щелочная фосфатаза, Ед/л Маркер остеобластов",
+    "create_at": "2023-08-28T14:34:47.392Z",
+    "update_at": "2023-08-28T14:34:47.392Z",
+    "TashxisValues": [
+      {
+        "id": 105,
+        "value_name": "30-130",
+        "value_number": "0",
+        "tashxis_ref_id": 35,
+        "create_at": "2023-08-28T14:34:55.999Z",
+        "update_at": "2023-08-28T14:34:55.999Z"
+      },
+      {
+        "id": 106,
+        "value_name": ">130",
+        "value_number": "1",
+        "tashxis_ref_id": 35,
+        "create_at": "2023-08-28T14:35:04.632Z",
+        "update_at": "2023-08-28T14:35:04.632Z"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Радиочувствительность опухоли",
+    "create_at": "2023-08-29T03:29:02.400Z",
+    "update_at": "2023-08-29T03:29:02.400Z",
+    "TashxisValues": [
+      {
+        "id": 109,
+        "value_name": "Высокая  ",
+        "value_number": "0",
+        "tashxis_ref_id": 37,
+        "create_at": "2023-08-29T03:29:12.336Z",
+        "update_at": "2023-08-29T03:29:12.336Z"
+      },
+      {
+        "id": 110,
+        "value_name": "Средняя ",
+        "value_number": "1",
+        "tashxis_ref_id": 37,
+        "create_at": "2023-08-29T03:29:19.703Z",
+        "update_at": "2023-08-29T03:29:19.703Z"
+      },
+      {
+        "id": 111,
+        "value_name": "Низкая ",
+        "value_number": "2",
+        "tashxis_ref_id": 37,
+        "create_at": "2023-08-29T03:29:30.528Z",
+        "update_at": "2023-08-29T03:29:30.528Z"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Темп роста первичной опухоли",
+    "create_at": "2023-08-29T03:29:50.473Z",
+    "update_at": "2023-08-29T03:29:50.473Z",
+    "TashxisValues": [
+      {
+        "id": 112,
+        "value_name": "Медленный",
+        "value_number": "1",
+        "tashxis_ref_id": 38,
+        "create_at": "2023-08-29T03:29:57.512Z",
+        "update_at": "2023-08-29T03:29:57.512Z"
+      },
+      {
+        "id": 113,
+        "value_name": "Умеренный ",
+        "value_number": "2",
+        "tashxis_ref_id": 38,
+        "create_at": "2023-08-29T03:30:05.502Z",
+        "update_at": "2023-08-29T03:30:05.502Z"
+      },
+      {
+        "id": 114,
+        "value_name": "Быстрый ",
+        "value_number": "3",
+        "tashxis_ref_id": 38,
+        "create_at": "2023-08-29T03:30:12.825Z",
+        "update_at": "2023-08-29T03:30:12.825Z"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Оставшийся первичный очаг",
+    "create_at": "2023-08-29T03:30:25.456Z",
+    "update_at": "2023-08-29T03:30:25.456Z",
+    "TashxisValues": [
+      {
+        "id": 115,
+        "value_name": "Нет",
+        "value_number": "0",
+        "tashxis_ref_id": 39,
+        "create_at": "2023-08-29T03:30:34.025Z",
+        "update_at": "2023-08-29T03:30:34.025Z"
+      },
+      {
+        "id": 116,
+        "value_name": "Да",
+        "value_number": "1",
+        "tashxis_ref_id": 39,
+        "create_at": "2023-08-29T03:30:44.239Z",
+        "update_at": "2023-08-29T03:30:44.239Z"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Соблюдение режима лечения",
+    "create_at": "2023-08-29T03:30:50.456Z",
+    "update_at": "2023-08-29T03:30:50.456Z",
+    "TashxisValues": [
+      {
+        "id": 117,
+        "value_name": "Да",
+        "value_number": "0",
+        "tashxis_ref_id": 40,
+        "create_at": "2023-08-29T03:31:03.546Z",
+        "update_at": "2023-08-29T03:31:03.546Z"
+      },
+      {
+        "id": 118,
+        "value_name": "Нет ",
+        "value_number": "1",
+        "tashxis_ref_id": 40,
+        "create_at": "2023-08-29T03:31:10.742Z",
+        "update_at": "2023-08-29T03:31:10.742Z"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Кость контрлатеральной стороне",
+    "create_at": "2023-08-29T03:31:52.384Z",
+    "update_at": "2023-08-29T03:31:52.384Z",
+    "TashxisValues": [
+      {
+        "id": 119,
+        "value_name": "Не поражена ",
+        "value_number": "0",
+        "tashxis_ref_id": 41,
+        "create_at": "2023-08-29T03:32:01.303Z",
+        "update_at": "2023-08-29T03:32:01.303Z"
+      },
+      {
+        "id": 120,
+        "value_name": "Поражена ",
+        "value_number": "1",
+        "tashxis_ref_id": 41,
+        "create_at": "2023-08-29T03:32:08.045Z",
+        "update_at": "2023-08-29T03:32:08.045Z"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Оценка эффективности лечения основного заболевания",
+    "create_at": "2023-08-29T03:32:18.055Z",
+    "update_at": "2023-08-29T03:32:18.055Z",
+    "TashxisValues": [
+      {
+        "id": 121,
+        "value_name": "Ремиссия",
+        "value_number": "0",
+        "tashxis_ref_id": 42,
+        "create_at": "2023-08-29T03:32:26.388Z",
+        "update_at": "2023-08-29T03:32:26.388Z"
+      },
+      {
+        "id": 122,
+        "value_name": "Объективный ответ",
+        "value_number": "1",
+        "tashxis_ref_id": 42,
+        "create_at": "2023-08-29T03:32:36.841Z",
+        "update_at": "2023-08-29T03:32:36.841Z"
+      },
+      {
+        "id": 123,
+        "value_name": "Стабилизация",
+        "value_number": "2",
+        "tashxis_ref_id": 42,
+        "create_at": "2023-08-29T03:32:45.259Z",
+        "update_at": "2023-08-29T03:32:45.259Z"
+      },
+      {
+        "id": 124,
+        "value_name": "Прогрессия",
+        "value_number": "3",
+        "tashxis_ref_id": 42,
+        "create_at": "2023-08-29T03:32:53.453Z",
+        "update_at": "2023-08-29T03:32:53.453Z"
+      }
+    ]
+  }
+]
